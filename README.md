@@ -8,7 +8,7 @@ https://drive.google.com/file/d/1kj1SQgJOyJgantBRufkX6-DPVD491Yk_/view?usp=shari
 
 Pull the docker image:
 
-docker pull oben2020/voice_conversion:demo
+docker pull oben2021/voice_conversion:demo
 
 Please unzip the lpcnet_demo and run with the input wav file (16kHz):
 
