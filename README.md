@@ -12,4 +12,4 @@ docker pull oben2021/voice_conversion:demo
 
 Please unzip the lpcnet_demo and run with the input wav file (16kHz):
 
-sudo docker run --rm -it --init --volume="$PWD:/app" oben2020/voice_conversion:demo lpcnet_demo/convert.bin input.16k.wav
+sudo docker run --rm -it --init --volume="$PWD:/app" oben2021/voice_conversion:demo lpcnet_demo/convert.bin input.16k.wav
