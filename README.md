@@ -1,4 +1,4 @@
-Due to the restricted license of data used in the paper, different model is trained for the voice conversion demo. We used 2 hours data (Reader 9017) Hi-Fi TTS [1] as a target speaker.
+Due to the restricted license of data used in the paper, a different model is trained for the voice conversion demo. We used 2 hours data (Reader 9017) Hi-Fi TTS [1] as a target speaker.
 
 [1] E. Bakhturina, "Hi-Fi Multi-Speaker English TTS Dataset", in Proceedings of Interspech, 2021, pp. 2776-2780.
 
