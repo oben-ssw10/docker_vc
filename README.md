@@ -1,4 +1,4 @@
-Download the lpcnet demo: 
+Download the lpcnet_demo: 
 
 https://drive.google.com/file/d/1kj1SQgJOyJgantBRufkX6-DPVD491Yk_/view?usp=sharing
 
