@@ -1,6 +1,6 @@
 1. Download the lpcnet_vc.zip: 
 
-https://drive.google.com/file/d/1kj1SQgJOyJgantBRufkX6-DPVD491Yk_/view?usp=sharing
+https://drive.google.com/file/d/1uzPUo7esGfwRRWdFZ_BGYsMnc6qwH-YB/view?usp=sharing
 
 2. Pull the docker image:
 
